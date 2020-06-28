@@ -48357,7 +48357,7 @@ s.push(new U.pq("",!1,!0,q,q,q,!1,q,C.ao,C.q,"",!0,!1,q,C.br))
 return!1}return!0}}
 F.zD.prototype={
 G:function(a){var s=null,r=X.a3n(new X.lo(C.ap,s,s,s,s,s),s,"Wallpoet",C.mU,X.a9Z())
-return new S.qp(P.aW(["/test",new F.Or(),"/",new F.Os(),"/signUp",new F.Ot(),"/bucketList",new F.Ou(),"/addList",new F.Ov()],t.X,t.gd),"Flutter Demo",r,s)}}
+return new S.qp(P.aW(["/test",new F.Or(),"/",new F.Os(),"/signUp",new F.Ot(),"/bucketList",new F.Ou(),"/addList",new F.Ov()],t.X,t.gd),"Planner X",r,s)}}
 F.Or.prototype={
 $1:function(a){return new B.kD(null)},
 $S:181}
