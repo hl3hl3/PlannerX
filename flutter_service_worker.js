@@ -47,7 +47,7 @@ const RESOURCES = {
 "assets/images/earth@3x.png": "b47ee681847bbaea501c8a216d266874",
 "assets/images/earthSlow.gif": "f6a2eb1005b00af9ff99ebeaf5221d47",
 "assets/AssetManifest.json": "8b2ff24e1aa8325e485fed5f743f47fc",
-"assets/NOTICES": "6c3c25acc54b0e8c740b07a4e206a0b9",
+"assets/NOTICES": "deaf07c31dd08b9eb4e794e8f6fc9bba",
 "assets/FontManifest.json": "3cbfc4a487d96b1a64119601ee09feef",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/fonts/Wallpoet-Regular.ttf": "d1d4f8933774abc5b24a6a4b617f1968",
